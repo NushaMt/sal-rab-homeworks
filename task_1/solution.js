@@ -15,7 +15,7 @@ function addInCartMessage(title, price) {
     // добавьте в конец переменной message текст 'теперь в корзине!'
     // выведите переменную message в консоль
     let message;
-    message = `${productName} за ${productPrice} теперь в корзине!";
+    message = `${productName} за ${productPrice} теперь в корзине!`;
     console.log(message);
     // Конец решения задания №1.1.
 
